@@ -14,3 +14,11 @@
    政策/周小川：数字化时代货币与支付的演进原则
    政策/姚前：关于央行数字货币若干问题的思考
 
+..
+ Indices and tables
+ ==================
+
+ * :ref:`genindex`
+ * :ref:`modindex`
+ * :ref:`search`
+
