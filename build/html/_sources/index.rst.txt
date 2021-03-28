@@ -9,10 +9,12 @@
 .. toctree::
    :maxdepth: 2
    :caption: 一、政策部分
+   :glob:
    :numbered:
 
-   政策/周小川：数字化时代货币与支付的演进原则
-   政策/姚前：关于央行数字货币若干问题的思考
+   政策/*
+
+.. math::
 
 ..
  Indices and tables
