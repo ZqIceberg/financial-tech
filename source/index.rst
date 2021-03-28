@@ -12,7 +12,7 @@
    :glob:
    :numbered:
 
-   政策/*
+..   政策/*
 
 .. math::
 
