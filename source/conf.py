@@ -211,7 +211,7 @@ htmlhelp_basename = 'Recommonmarkdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
-latex_elements = {
+#latex_elements = {
 # The paper size ('letterpaper' or 'a4paper').
 #'papersize': 'letterpaper',
 
@@ -223,15 +223,15 @@ latex_elements = {
 
 # Latex figure (float) alignment
 #'figure_align': 'htbp',
-}
+#}
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
-latex_documents = [
-  (master_doc, 'Recommonmark.tex', u'Recommonmark Documentation',
-   u'Lu Zero, Eric Holscher, and contributors', 'manual'),
-]
+#latex_documents = [
+#  (master_doc, 'Recommonmark.tex', u'Recommonmark Documentation',
+#   u'Lu Zero, Eric Holscher, and contributors', 'manual'),
+#]
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
