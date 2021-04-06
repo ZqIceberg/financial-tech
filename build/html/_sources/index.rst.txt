@@ -12,7 +12,7 @@
    :glob:
    :numbered:
 
-   政策/穆长春：科技金融前沿：Libra与数字货币展望.md
+   政策/1.md
 
 .. math::
 
