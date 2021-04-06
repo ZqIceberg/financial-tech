@@ -13,7 +13,6 @@
    :numbered:
 
    政策/1.md
-   政策/2.md
 
 .. math::
 
